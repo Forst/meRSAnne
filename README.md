@@ -8,7 +8,7 @@ Included is the compressed DER-encoded private and public key files, as well as 
 
 **Why?** I was bored.
 
-**Does it have any practical use?** Not really, the key size is too big for any practical use. Besides, since both primes are publicly known, it's not actually secure to use it at all.
+**Does it have any practical use?** Not really, the key size is too big for any practical use. Besides, since both primes are publicly known, it doesn't provide any level of security whatsoever.
 
 ## Acknowledgements
 
